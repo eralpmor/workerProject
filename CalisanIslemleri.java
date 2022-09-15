@@ -146,6 +146,6 @@ public class CalisanIslemleri {
         }
     public static void main(String[] args) {
         CalisanIslemleri islemler = new CalisanIslemleri();
-        
+        //Deneme ekle
     }
 }
